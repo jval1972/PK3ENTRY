@@ -35,7 +35,7 @@ const
                 (Ord('A') shl 16) or
                 (Ord('D') shl 24));
 
-  IWAD = integer(Ord('P') or
+  IWAD = integer(Ord('I') or
                 (Ord('W') shl 8) or
                 (Ord('A') shl 16) or
                 (Ord('D') shl 24));
