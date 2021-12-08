@@ -33,8 +33,8 @@ const
   APPNAME = 'PK3ENTRY';
   APPVERSION = '1.0';
   APPCOPYRIGHT = '(c) 2019, Jim Valavanis';
-  
+
 implementation
 
 end.
- 
+

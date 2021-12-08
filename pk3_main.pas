@@ -151,7 +151,7 @@ begin
   Result := (wado <> nil) or (pk3o <> nil);
   if not Result then
     Exit;
-    
+
   sl := TStringList.Create;
   for i := 0 to infiles.Count - 1 do
   begin
